@@ -1,0 +1,7 @@
+{
+  "name": "MeCollage Redesign Pro",
+  "description": "A high-performance, minimalist photo collage maker focusing on immediate interaction and utility-first UX.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
